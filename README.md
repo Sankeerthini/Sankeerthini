@@ -1,4 +1,4 @@
-### Hi there, I'm Sankeerthini ![giphy](https://github.com/Sankeerthini/Sankeerthini/assets/84824259/0d8fead1-0e3a-4d0e-b54d-c19edf193816)
+### Hi there, I'm Sankeerthini 
 
 
 <!--
