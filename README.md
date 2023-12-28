@@ -1,5 +1,6 @@
 ### 👋🏼 Hi there, I'm Sankeerthini! 
 
+![puppytalesphotos-puppytales](https://github.com/Sankeerthini/Sankeerthini/assets/84824259/857d4e4e-28bf-465e-9f18-d12ed99a022f)
 
 
 <!--
