@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Sankeerthini ![giphy](https://github.com/Sankeerthini/Sankeerthini/assets/84824259/0d8fead1-0e3a-4d0e-b54d-c19edf193816)
+
 
 <!--
 **Sankeerthini/Sankeerthini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
