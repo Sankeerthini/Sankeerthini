@@ -1,5 +1,5 @@
 ### 👋🏼 Hi there, I'm Sankeerthini! 
----
+--
 
 
 ![giphy-2](https://github.com/Sankeerthini/Sankeerthini/assets/84824259/505a35d3-ad3b-41fa-89ca-bcb1ae6280d3)
