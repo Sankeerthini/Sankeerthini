@@ -1,11 +1,14 @@
 # Hi there, I'm Sankeerthini! 👋
 
-![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=435&lines=Software+Developer;Data+Engineer;Data+Analyst;Tech+Enthusiast)
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=435&lines=Master+in+Computer+%26+Electrical+Engineering+Graduate;Software+Developer;Data+Engineer;Data+Analyst;Tech+Enthusiast" alt="Typing SVG">
+  <br>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername" alt="visitor badge">
+</div>
 
 ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
 
 ## 🔧 About Me
 
