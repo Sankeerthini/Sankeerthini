@@ -1,4 +1,7 @@
-# Hi there, I'm Sankeerthini! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<div align="center">
+  <h1>Hi there, I'm Sankeerthini! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=435&lines=Software+Developer;Data+Engineer;Data+Analyst;Tech+Enthusiast" alt="Typing SVG">
+</div>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=435&lines=Software+Developer;Data+Engineer;Data+Analyst;Tech+Enthusiast)
 
