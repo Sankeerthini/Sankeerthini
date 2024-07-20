@@ -1,6 +1,6 @@
 # Hi there, I'm Sankeerthini! 👋
 
-![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 🎓 **MASTER IN COMPUTER & ELECTRICAL ENGINEERING GRADUATE**
 
@@ -26,4 +26,8 @@ I'm a dedicated Computer & Electrical Engineering professional with a proven tra
 - [LinkedIn](https://www.linkedin.com/in/sankeerthini-d) 
 - [Email](mailto:sankeerthini@gmail.com)
 
-![Thank You](https://media.giphy.com/media/3o6Mbjc28yYBm8TMEk/giphy.gif)
+<img src="https://media.giphy.com/media/xUPGcq8h6y4lp0x4pq/giphy.gif" width="200">
+
+---
+
+![Thank You](https://media.giphy.com/media/3ohhwm7f1SzYfv7Y3K/giphy.gif)
