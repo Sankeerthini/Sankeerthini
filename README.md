@@ -18,7 +18,7 @@
     </ul>
   </div>
   <div>
-    <img src="https://media.giphy.com/media/3o7aCUtKLOsmRsK3Sc/giphy.gif" width="250" alt="Data presentation GIF">
+    <iframe src="https://giphy.com/embed/QpVUMRUJGokfqXyfa1" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
   </div>
 </div>
 
