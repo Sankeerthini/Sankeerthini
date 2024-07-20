@@ -26,8 +26,4 @@ I'm a dedicated Computer & Electrical Engineering professional with a proven tra
 - [LinkedIn](https://www.linkedin.com/in/sankeerthini-d) 
 - [Email](mailto:sankeerthini@gmail.com)
 
-<img src="https://media.giphy.com/media/xUPGcq8h6y4lp0x4pq/giphy.gif" width="200">
 
----
-
-![Thank You](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
