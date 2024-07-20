@@ -18,7 +18,7 @@
     </ul>
   </div>
   <div>
-    <iframe src="https://giphy.com/embed/QpVUMRUJGokfqXyfa1" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    
   </div>
 </div>
 
