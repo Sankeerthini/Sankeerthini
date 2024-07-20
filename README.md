@@ -2,7 +2,7 @@
 
 ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=435&lines=Master+in+Computer+%26+Electrical+Engineering+Graduate;Software+Developer;Data+Engineer;Data+Analyst;Tech+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=435&lines=Software+Developer;Data+Engineer;Data+Analyst;Tech+Enthusiast)
 
 ---
 
@@ -46,14 +46,6 @@ I'm a dedicated Computer & Electrical Engineering professional with a proven tra
 
 ![Sankeerthini's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 🎮 Fun & Interactive
-
-![code gif](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
 
 ---
 
