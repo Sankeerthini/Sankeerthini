@@ -60,7 +60,6 @@
 ## 🌲 Skills Tree
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400">
   <div style="position: relative;">
     <img src="https://yourimageurl.com/skillstree.png" alt="Skills Tree" usemap="#skillsmap">
     <map name="skillsmap">
