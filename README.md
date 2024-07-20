@@ -1,20 +1,29 @@
-### 👋🏼 Hi there, I'm Sankeerthini! 
-____
+# Hi there, I'm Sankeerthini! 👋
 
+![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
+🎓 **MASTER IN COMPUTER & ELECTRICAL ENGINEERING GRADUATE**
 
+---
 
-<!--
-**Sankeerthini/Sankeerthini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **About Me**
 
-Here are some ideas to get you started:
+I'm a dedicated Computer & Electrical Engineering professional with a proven track record in technical excellence and a passion for technology. Experienced in:
+- Software Development
+- Data Engineering
+- Data Analysis
+- Academic and Technical Support Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Key Skills**
+
+- **Front-End Development**: Creating responsive and user-friendly web interfaces using HTML, CSS, JavaScript, React, and Angular.
+- **Data Analysis**: Data wrangling, visualization, and statistical analysis using SQL, Python, R, and Power BI.
+- **Electrical Engineering**: Designing and implementing electrical systems, circuit analysis, control systems, and embedded programming.
+- **Mentorship & Support**: Providing academic support, mentoring international students, and managing student affairs to enhance student experiences and success.
+
+📫 **Connect with Me**
+
+- [LinkedIn](https://www.linkedin.com/in/sankeerthini-d) 
+- [Email](mailto:sankeerthini@gmail.com)
+
+![Thank You](https://media.giphy.com/media/3o6Mbjc28yYBm8TMEk/giphy.gif)
