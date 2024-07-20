@@ -18,7 +18,7 @@
     </ul>
   </div>
   <div>
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd3MmtrYmdubzcwbWRhenEwcG04anFnNW02ZzdkOHI1N3RheDh0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Data presentation GIF">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd3MmtrYmdubzcwbWRhenEwcG04anFnNW02ZzdkOHI1N3RheDh0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width = "250" alt="Data presentation GIF">
   </div>
 </div>
 
