@@ -12,6 +12,10 @@
 
 ## 🔧 About Me
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKSRFb58Z95KCBO/giphy.gif" width="200"/>
+</div>
+
 I'm a dedicated Computer & Electrical Engineering professional with a proven track record in technical excellence and a passion for technology. Experienced in:
 
 - 🖥️ **Software Development**
@@ -20,6 +24,7 @@ I'm a dedicated Computer & Electrical Engineering professional with a proven tra
 - 📚 **Academic and Technical Support Services**
 
 ---
+
 
 ## 💡 Key Skills
 
