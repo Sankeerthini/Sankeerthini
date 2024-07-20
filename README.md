@@ -13,7 +13,7 @@
 ## 🔧 About Me
 
 <div align="center">
-  <img src="https://lottie.host/embed/d43d3cc4-9dec-460f-84d9-952299a302f3/9fbe7bG36P.json" width="200"/>
+  <img src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js" width="200"/>
 </div>
 
 I'm a dedicated Computer & Electrical Engineering professional with a proven track record in technical excellence and a passion for technology. Experienced in:
