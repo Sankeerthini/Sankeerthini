@@ -57,45 +57,6 @@
 
 ---
 
-## 🌲 Skills Tree
-
-<div align="center">
-  <img src="https://yourimageurl.com/skillstree.png" alt="Skills Tree" usemap="#skillsmap">
-  <map name="skillsmap">
-    <area shape="circle" coords="100,100,50" alt="Front-End Development" href="#frontend" title="Front-End Development">
-    <area shape="circle" coords="300,100,50" alt="Data Analysis" href="#dataanalysis" title="Data Analysis">
-    <area shape="circle" coords="500,100,50" alt="Electrical Engineering" href="#electricalengineering" title="Electrical Engineering">
-    <area shape="circle" coords="700,100,50" alt="Mentorship & Support" href="#mentorshipsupport" title="Mentorship & Support">
-  </map>
-</div>
-
-<a name="frontend"></a>
-### Front-End Development
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Angular
-
-<a name="dataanalysis"></a>
-### Data Analysis
-- SQL
-- Python
-- R
-- Power BI
-
-<a name="electricalengineering"></a>
-### Electrical Engineering
-- Circuit Design
-- Embedded Programming
-
-<a name="mentorshipsupport"></a>
-### Mentorship & Support
-- Mentorship
-- Support
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
