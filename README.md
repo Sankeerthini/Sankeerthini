@@ -28,4 +28,4 @@ I'm a dedicated Computer & Electrical Engineering professional with a proven tra
 
 ---
 
-![Thank You](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
+![Thank You](https://tenor.com/en-CA/view/cute-thank-you-thank-you-cute-gif-21950790)
