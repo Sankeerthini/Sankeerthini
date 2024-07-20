@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=435&lines=Software+Developer;Data+Engineer;Data+Analyst;Tech+Enthusiast)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Sankeerthini.Sankeerthini)
+![Profile views](https://komarev.com/ghpvc/?username=Sankeerthini&color=green)
 
 ---
 
