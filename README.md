@@ -25,30 +25,47 @@ I'm a dedicated Computer & Electrical Engineering professional with a proven tra
 
 ---
 
-
 ## 💡 Key Skills
 
-### Front-End Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Circuit%20Design-BDB76B?style=for-the-badge&logo=arduino&logoColor=black" alt="Circuit Design">
+  <img src="https://img.shields.io/badge/Embedded%20Programming-007ACC?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Embedded Programming">
+  <img src="https://img.shields.io/badge/Mentorship-FFD700?style=for-the-badge&logo=knowledgebase&logoColor=black" alt="Mentorship">
+  <img src="https://img.shields.io/badge/Support-2E8B57?style=for-the-badge&logo=helpdesk&logoColor=white" alt="Support">
+</div>
 
-### Data Analysis
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+---
 
-### Electrical Engineering
-![Circuit Design](https://img.shields.io/badge/Circuit%20Design-BDB76B?style=for-the-badge&logo=arduino&logoColor=black)
-![Embedded Programming](https://img.shields.io/badge/Embedded%20Programming-007ACC?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## 🌳 Skills Tree
 
-### Mentorship & Support
-![Mentorship](https://img.shields.io/badge/Mentorship-FFD700?style=for-the-badge&logo=knowledgebase&logoColor=black)
-![Support](https://img.shields.io/badge/Support-2E8B57?style=for-the-badge&logo=helpdesk&logoColor=white)
-
+```mermaid
+graph TD;
+    A[Skills] --> B[Front-End Development]
+    A --> C[Data Analysis]
+    A --> D[Electrical Engineering]
+    A --> E[Mentorship & Support]
+    B --> B1[HTML]
+    B --> B2[CSS]
+    B --> B3[JavaScript]
+    B --> B4[React]
+    B --> B5[Angular]
+    C --> C1[SQL]
+    C --> C2[Python]
+    C --> C3[R]
+    C --> C4[Power BI]
+    D --> D1[Circuit Design]
+    D --> D2[Embedded Programming]
+    E --> E1[Mentorship]
+    E --> E2[Support]
 ---
 
 ## 📊 GitHub Stats
