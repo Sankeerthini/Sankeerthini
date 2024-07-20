@@ -61,7 +61,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sankeerthini&show_icons=true&theme=radical" alt="Sankeerthini's GitHub stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankeerthini&layout=compact&theme=radical" alt="Top Langs" width="310">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankeerthini&layout=compact&theme=radical" alt="Top Langs" width="305">
 </div>
 
 ---
