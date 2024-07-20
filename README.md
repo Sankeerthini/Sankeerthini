@@ -28,5 +28,5 @@ I'm a dedicated Computer & Electrical Engineering professional with a proven tra
 
 ---
 
-![Thank You](https://media.giphy.com/media/3o6ozkA7LTo6UciTfu/giphy.gif)
+![Thank You](https://media.giphy.com/media/l4pTq5egMl6dW9u7m/giphy.gif)
 
