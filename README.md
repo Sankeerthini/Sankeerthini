@@ -44,30 +44,6 @@ I'm a dedicated Computer & Electrical Engineering professional with a proven tra
 </div>
 
 ---
-
-## 🌳 Skills Tree
-
-```mermaid
-graph TD;
-    A[Skills] --> B[Front-End Development]
-    A --> C[Data Analysis]
-    A --> D[Electrical Engineering]
-    A --> E[Mentorship & Support]
-    B --> B1[HTML]
-    B --> B2[CSS]
-    B --> B3[JavaScript]
-    B --> B4[React]
-    B --> B5[Angular]
-    C --> C1[SQL]
-    C --> C2[Python]
-    C --> C3[R]
-    C --> C4[Power BI]
-    D --> D1[Circuit Design]
-    D --> D2[Embedded Programming]
-    E --> E1[Mentorship]
-    E --> E2[Support]
----
-
 ## 📊 GitHub Stats
 
 ![Sankeerthini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sankeerthini&show_icons=true&theme=radical)
