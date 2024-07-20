@@ -45,8 +45,8 @@ I'm a dedicated Computer & Electrical Engineering professional with a proven tra
 
 ## 📊 GitHub Stats
 
-![Sankeerthini's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Sankeerthini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sankeerthini&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankeerthini&layout=compact&theme=radical)
 
 ---
 
