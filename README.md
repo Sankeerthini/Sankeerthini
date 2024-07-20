@@ -5,7 +5,7 @@
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=435&lines=Master+in+Computer+%26+Electrical+Engineering+Graduate;Software+Developer;Data+Engineer;Data+Analyst;Tech+Enthusiast" alt="Typing SVG">
   <br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername" alt="visitor badge">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Sankeerthini.Sankeerthini" alt="visitor badge">
 </div>
 
 ---
