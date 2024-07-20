@@ -7,7 +7,7 @@
 
 ## 🔧 About Me
 <div align="centre">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRuMzl0dWJjZHB4MzN4aDdyZ2FibDZva283OHd6b3Nia2Y4M2FsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyzew7Py7bnW9DiJJj/giphy.gif">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRuMzl0dWJjZHB4MzN4aDdyZ2FibDZva283OHd6b3Nia2Y4M2FsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyzew7Py7bnW9DiJJj/giphy.gif" width="300">
 </div>
 
 
