@@ -68,7 +68,7 @@
 
 ## 📫 Connect with Me
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/sankeerthini-d">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
