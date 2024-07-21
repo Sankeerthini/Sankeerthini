@@ -14,7 +14,7 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    I'm a dedicated Electrical & Computer Engineering professional with a proven track record in technical excellence and a passion for technology. Experienced in:
+    <br/>I'm a dedicated Electrical & Computer Engineering professional with a proven track record in technical excellence and a passion for technology. Experienced in:
     <ul>
       <li>🖥️ <strong>Software Development</strong></li>
       <li>📊 <strong>Data Engineering</strong></li>
