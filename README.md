@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Sankeerthini! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=435&lines=Software+Developer;Data+Engineer;Data+Analyst;Tech+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=435&lines=Generative+AI+Engineer;Data+Analyst;AI+Business+Analyst;Front+End+Developer" alt="Typing SVG">
 </div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Sankeerthini&color=red)
