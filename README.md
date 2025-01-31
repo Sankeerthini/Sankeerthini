@@ -10,12 +10,12 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <br/>I'm a dedicated Electrical & Computer Engineering professional with a proven track record in technical excellence and a passion for technology. Experienced in:
+    <br/>I'm a dedicated Electrical & Computer Engineering professional with a proven track record in technical excellence and a passion for technology. Experienced as:
     <ul>
-      <li>🖥️ <strong>Software Development</strong></li>
-      <li>📊 <strong>Data Engineering</strong></li>
-      <li>📈 <strong>Data Analysis</strong></li>
-      <li>📚 <strong>Academic and Technical Support Services</strong></li>
+      <li>🖥️ <strong>Generative AI Business Analyst</strong></li>
+      <li>🤖 <strong>Junior LLM Developer</strong></li>
+      <li>📊 <strong>Data Analyst</strong></li>
+      <li>📚 <strong>Student Support & Mentorship Specialist</strong></li>
     </ul>
   </div>
 </div>
