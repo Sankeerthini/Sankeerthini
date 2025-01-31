@@ -26,6 +26,16 @@
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <div style="margin: 10px;">
+    <h3>Generative AI & LLM Development</h3>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+    <img src="https://img.shields.io/badge/LangChain-0052CC?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+    <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=vector-db&logoColor=white" alt="FAISS">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  </div>
+  <div style="margin: 10px;">
     <h3>Front-End Development</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -40,6 +50,13 @@
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+  </div>
+  <div style="margin: 10px;">
+    <h3>Project Management & Agile Leadership</h3>
+    <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum">
+    <img src="https://img.shields.io/badge/Agile-FF6600?style=for-the-badge&logo=agile&logoColor=white" alt="Agile">
+    <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA">
+    <img src="https://img.shields.io/badge/Asana-0079BF?style=for-the-badge&logo=asana&logoColor=orange" alt="Asana">
   </div>
   <div style="margin: 10px;">
     <h3>Electrical Engineering</h3>
