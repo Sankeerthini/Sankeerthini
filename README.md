@@ -10,7 +10,7 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <br/>I'm a dedicated Electrical & Computer Engineering professional with a proven track record in technical excellence and a passion for technology. Experienced as:
+    <br/>Electrical & Computer Engineering professional with a Master’s degree and expertise in AI, data analysis, and project management, specializing in AI-driven business solutions and strategic technology adoption. Experienced in AI product development and business analytics, leading cross-functional teams, conducting AI feasibility assessments, and implementing data-centric solutions to drive operational efficiency and innovation. Experienced as:
     <ul>
       <li>🖥️ <strong>Generative AI Business Analyst</strong></li>
       <li>🤖 <strong>Junior LLM Developer</strong></li>
